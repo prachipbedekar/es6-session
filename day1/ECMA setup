@@ -1,0 +1,9 @@
+ECMA 
+create a folder 
+ng init
+npm install --save-dev babel-core babel-loader babel-cli
+to install preset 
+npm install --save-dev babel-preset-es2015
+ install webpack globally and locally
+ npm install -g webpack
+ npm install --save-dev webpack-dev-server
